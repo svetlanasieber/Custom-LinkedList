@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CustomDoublyLinkedList;
+namespace DoublyLinkedList;
 
 public class DoublyLinkedList
 {
